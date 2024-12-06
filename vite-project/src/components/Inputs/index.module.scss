@@ -1,0 +1,17 @@
+.box{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    margin: 10px 0;
+    padding: 15px 8px;
+    border: none;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.input::placeholder{
+    font-size: 15px;
+}
+.text{
+    font-size: 15px;
+}
